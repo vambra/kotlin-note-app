@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083451255086",
+    "project_id": "noteapp-ef88b",
+    "storage_bucket": "noteapp-ef88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083451255086:android:6a77c3e15e30b7652ab2bf",
+        "android_client_info": {
+          "package_name": "lt.viko.eif.mobiliosiosprogrameles.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083451255086-tjq9qf2p1binsfpsckg6gksoocll0je7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hYx_MlcyNDmltC9DGp6kWUguKKnmPNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083451255086-tjq9qf2p1binsfpsckg6gksoocll0je7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
